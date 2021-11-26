@@ -18,4 +18,9 @@ Pour récupérer les informations d'une page:
 
 * en suite vous copiez le contenu JS du fichier dans la **console web**
   
-  ![image 5](images/4.png)
+  ![image 4](images/4.png)
+
+  * après vous tapez sur la touche **Entrer**
+
+![image 5](images/5.png)
+  

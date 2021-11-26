@@ -20,7 +20,9 @@ Pour récupérer les informations d'une page:
   
   ![image 4](images/4.png)
 
-  * après vous tapez sur la touche **Entrer**
+* après vous tapez sur la touche **Entrer**
 
-![image 5](images/5.png)
+    ![image 5](images/5.png)
+
+* et enfin la **console** va vous inviter dans d'enrégistrer le fichier dans un repertoire
   

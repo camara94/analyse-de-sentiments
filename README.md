@@ -7,3 +7,6 @@ J'ai réalisé le webscraping en JavaScript, tous les scripts se trouvent dans l
 Pour récupérer les informations d'une page:
 
 ![image 1](images/1.png)
+
+* vous copiez collez l'URL sur la **barre d'url** d'un navigateur
+* ![image 2](images/2.png)
